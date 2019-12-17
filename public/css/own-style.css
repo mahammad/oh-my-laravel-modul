@@ -1,0 +1,12 @@
+.icon-width-xs {
+    width: 22px;
+}
+.icon-width-sm {
+    width: 32px;
+}
+.border-radius-0{
+    border-radius: 0!important;
+}
+.btn:focus, .btn.focus ,.form-control:focus{
+    box-shadow: none;
+}
