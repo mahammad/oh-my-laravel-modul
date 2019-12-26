@@ -1,1 +1,101 @@
-"[\r\n    {\r\n        \"Emtia\": \"Amerikan Kahve C\",\r\n        \"Ay\": \"Mar 2020\",\r\n        \"Son\": \"140,83\",\r\n        \"Taban\": \"140,83\",\r\n        \"Y\\u00fcksek\": \"141,50\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"129,48\",\r\n        \"Fark\": \"+9,93\",\r\n        \"Fark %\": \"+7,59%\",\r\n        \"Zaman\": \"16\\\/12\"\r\n    },\r\n    {\r\n        \"Emtia\": \"\\u00a0\",\r\n        \"Ay\": \"Pamuk No.2\",\r\n        \"Son\": \"Mar 2020\",\r\n        \"Taban\": \"66,91\",\r\n        \"Y\\u00fcksek\": \"66,97\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"66,96\",\r\n        \"Fark\": \"66,63\",\r\n        \"Fark %\": \"-0,06\",\r\n        \"Zaman\": \"-0,09%\"\r\n    },\r\n    {\r\n        \"Emtia\": \"12:12:49\",\r\n        \"Ay\": \"\\u00a0\",\r\n        \"Son\": \"Amerikan Seker No11\",\r\n        \"Taban\": \"Mar 2020\",\r\n        \"Y\\u00fcksek\": \"13,30\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"13,29\",\r\n        \"Fark\": \"13,32\",\r\n        \"Fark %\": \"13,25\",\r\n        \"Zaman\": \"+0,01\"\r\n    },\r\n    {\r\n        \"Emtia\": \"+0,08%\",\r\n        \"Ay\": \"12:07:45\",\r\n        \"Son\": \"\\u00a0\",\r\n        \"Taban\": \"Portakal Suyu\",\r\n        \"Y\\u00fcksek\": \"Oca 2020\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"98,08\",\r\n        \"Fark\": \"97,35\",\r\n        \"Fark %\": \"98,55\",\r\n        \"Zaman\": \"97,30\"\r\n    },\r\n    {\r\n        \"Emtia\": \"+0,73\",\r\n        \"Ay\": \"+0,75%\",\r\n        \"Son\": \"16\\\/12\",\r\n        \"Taban\": \"\\u00a0\",\r\n        \"Y\\u00fcksek\": \"Amerikan Kakao\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"Mar 2020\",\r\n        \"Fark\": \"2.553,00\",\r\n        \"Fark %\": \"2.553,00\",\r\n        \"Zaman\": \"2.611,50\"\r\n    },\r\n    {\r\n        \"Emtia\": \"2.542,50\",\r\n        \"Ay\": \"-19,00\",\r\n        \"Son\": \"-0,74%\",\r\n        \"Taban\": \"16\\\/12\",\r\n        \"Y\\u00fcksek\": \"\\u00a0\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"Londra Kahve\",\r\n        \"Fark\": \"Oca 2020\",\r\n        \"Fark %\": \"1.436,00\",\r\n        \"Zaman\": \"1.426,00\"\r\n    },\r\n    {\r\n        \"Emtia\": \"1.442,00\",\r\n        \"Ay\": \"1.434,00\",\r\n        \"Son\": \"+10,00\",\r\n        \"Taban\": \"+0,70%\",\r\n        \"Y\\u00fcksek\": \"12:13:00\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"\\u00a0\",\r\n        \"Fark\": \"Londra Kakao\",\r\n        \"Fark %\": \"\",\r\n        \"Zaman\": \"1.768,00\"\r\n    },\r\n    {\r\n        \"Emtia\": \"1.768,00\",\r\n        \"Ay\": \"1.800,00\",\r\n        \"Son\": \"1.766,00\",\r\n        \"Taban\": \"0,00\",\r\n        \"Y\\u00fcksek\": \"0,00%\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"16\\\/12\",\r\n        \"Fark\": \"\\u00a0\",\r\n        \"Fark %\": \"Londra Seker\",\r\n        \"Zaman\": \"\"\r\n    },\r\n    {\r\n        \"Emtia\": \"351,70\",\r\n        \"Ay\": \"351,70\",\r\n        \"Son\": \"357,80\",\r\n        \"Taban\": \"351,10\",\r\n        \"Y\\u00fcksek\": \"0,00\",\r\n        \"D\\u00fc\\u015f\\u00fck\": \"0,00%\",\r\n        \"Fark\": \"16\\\/12\",\r\n        \"Fark %\": \"\\u00a0\",\r\n        \"Zaman\": \"Kereste\"\r\n    }\r\n]"
+[
+    {
+        "Emtia": "Amerikan Kahve C",
+        "Ay": "Mar 2020",
+        "Son": "131,90",
+        "Taban": "133,70",
+        "Yu00fcksek": "135,44",
+        "Du00fcu015fu00fck": "131,13",
+        "Fark": "-1,80",
+        "Fark %": "-1,35%",
+        "Zaman": "15:31:40"
+    },
+    {
+        "Emtia": "Pamuk No.2",
+        "Ay": "Mar 2020",
+        "Son": "66,62",
+        "Taban": "66,44",
+        "Yu00fcksek": "66,66",
+        "Du00fcu015fu00fck": "66,33",
+        "Fark": "+0,18",
+        "Fark %": "+0,27%",
+        "Zaman": "15:30:09"
+    },
+    {
+        "Emtia": "Amerikan Seker No11",
+        "Ay": "Mar 2020",
+        "Son": "13,37",
+        "Taban": "13,27",
+        "Yu00fcksek": "13,38",
+        "Du00fcu015fu00fck": "13,27",
+        "Fark": "+0,10",
+        "Fark %": "+0,75%",
+        "Zaman": "15:30:08"
+    },
+    {
+        "Emtia": "Portakal Suyu",
+        "Ay": "Oca 2020",
+        "Son": "97,08",
+        "Taban": "98,15",
+        "Yu00fcksek": "98,55",
+        "Du00fcu015fu00fck": "96,70",
+        "Fark": "-1,07",
+        "Fark %": "-1,09%",
+        "Zaman": "17/12"
+    },
+    {
+        "Emtia": "Amerikan Kakao",
+        "Ay": "Mar 2020",
+        "Son": "2.525,50",
+        "Taban": "2.534,00",
+        "Yu00fcksek": "2.535,00",
+        "Du00fcu015fu00fck": "2.521,50",
+        "Fark": "-8,50",
+        "Fark %": "-0,34%",
+        "Zaman": "15:30:09"
+    },
+    {
+        "Emtia": "Londra Kahve",
+        "Ay": "Oca 2020",
+        "Son": "1.411,00",
+        "Taban": "1.406,00",
+        "Yu00fcksek": "1.425,00",
+        "Du00fcu015fu00fck": "1.409,00",
+        "Fark": "+5,00",
+        "Fark %": "+0,36%",
+        "Zaman": "15:30:26"
+    },
+    {
+        "Emtia": "Londra Kakao",
+        "Ay": "",
+        "Son": "1.783,00",
+        "Taban": "1.783,00",
+        "Yu00fcksek": "1.788,00",
+        "Du00fcu015fu00fck": "1.761,00",
+        "Fark": "0,00",
+        "Fark %": "0,00%",
+        "Zaman": "17/12"
+    },
+    {
+        "Emtia": "Londra Seker",
+        "Ay": "",
+        "Son": "352,70",
+        "Taban": "352,70",
+        "Yu00fcksek": "355,10",
+        "Du00fcu015fu00fck": "351,80",
+        "Fark": "0,00",
+        "Fark %": "0,00%",
+        "Zaman": "17/12"
+    },
+    {
+        "Emtia": "Kereste",
+        "Ay": "Oca 2020",
+        "Son": "406,00",
+        "Taban": "410,80",
+        "Yu00fcksek": "415,40",
+        "Du00fcu015fu00fck": "400,20",
+        "Fark": "-4,80",
+        "Fark %": "-1,17%",
+        "Zaman": "15:05:30"
+    }
+]

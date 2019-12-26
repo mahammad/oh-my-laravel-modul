@@ -10,3 +10,4 @@ Route::post('/jsonconverter/download', 'JsonController@create')->name('json.down
 Route::post('/jsonconverter', 'JsonController@table')->name('json.get');
 Route::get('/pamuk', 'JsonController@response')->name('json.response');
 Route::get('/responsephp', 'JsonController@responsephp')->name('json.response');
+Route::get('/instagram', 'InstagramController@index')->name('instagram.index');
